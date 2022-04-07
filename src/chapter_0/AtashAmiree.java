@@ -12,6 +12,8 @@ public class AtashAmiree {
 
         // love is sex
 
+        // love is die
+
 
 
 
