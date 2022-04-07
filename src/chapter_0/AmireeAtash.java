@@ -8,5 +8,9 @@ public class AmireeAtash {
 
 
         System.out.println("love is live");
+
+
+        System.out.println("love is money");
+
     }
 }
